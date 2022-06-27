@@ -6,7 +6,7 @@ import Confirmation from './pages/Confirmation';
 function App(){
   return(
     <React.Fragment>
-    <Confirmation />
+    <Rating />
     </React.Fragment>
   );
 }
