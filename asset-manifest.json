@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/frontendmentor-interactive-rating-component-using-materialui/static/css/main.05de1e55.css",
+    "main.js": "/frontendmentor-interactive-rating-component-using-materialui/static/js/main.b6ea741f.js",
+    "static/js/787.1ed0c42c.chunk.js": "/frontendmentor-interactive-rating-component-using-materialui/static/js/787.1ed0c42c.chunk.js",
+    "static/media/illustration-thank-you.svg": "/frontendmentor-interactive-rating-component-using-materialui/static/media/illustration-thank-you.d74a66b551b99ae110b5362ed63106bf.svg",
+    "index.html": "/frontendmentor-interactive-rating-component-using-materialui/index.html",
+    "static/media/icon-star.svg": "/frontendmentor-interactive-rating-component-using-materialui/static/media/icon-star.12766a8d207af861a70f92500634c8be.svg",
+    "main.05de1e55.css.map": "/frontendmentor-interactive-rating-component-using-materialui/static/css/main.05de1e55.css.map",
+    "main.b6ea741f.js.map": "/frontendmentor-interactive-rating-component-using-materialui/static/js/main.b6ea741f.js.map",
+    "787.1ed0c42c.chunk.js.map": "/frontendmentor-interactive-rating-component-using-materialui/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05de1e55.css",
+    "static/js/main.b6ea741f.js"
+  ]
+}
